@@ -18,7 +18,7 @@ body {
   background: #F0E8C2;
   padding: 24px;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
   box-sizing: border-box;
 
 }
@@ -62,4 +62,11 @@ p {
 
 ul {
   padding-left: 24px;
+}
+
+footer {
+  text-align: center;
+  color: #F0E8C2;
+  margin-top: 28px;
+  margin-bottom: 48px;
 }
